@@ -1,0 +1,53 @@
+head{
+
+}
+body {
+	background-color: #FFFFFF;
+	padding: 30px 20px 30px 20px;
+	font-family: Tahoma;
+	color: black;
+	}
+
+	h1 {
+			font-size: 50px;
+			font-weight: bold;
+			background-color: green;
+	}
+
+	h2{
+		font-size: 35px;
+		font-style: italic;
+		background-color: green;
+	}
+
+	p{
+		
+		text-align: justify;
+		font-size: 20px;
+	}
+	
+	span.kiko{
+	color:red;
+}
+span.chiq{
+	color:green;
+}
+span.madruga{
+	color:blue;
+}
+div.elenco{
+	text-align: center;
+}
+div.chiq{
+	border-style: solid;
+	border-color: green;
+}
+div.madruga{
+	border-style: solid;
+	border-color: blue;
+}
+div.kiko{
+	border-style: solid;
+	border-color: red;
+}
+}

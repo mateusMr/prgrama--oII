@@ -1,0 +1,19 @@
+Regras - FASE 1:
+
+Todo site deve ser escrito em Arial
+Os parágrafos devem ser justificados, tamanho 12, 5px de margem esquerda e 10 de margem superior
+Os títulos devem ser exibidos com todas as letras maiúsculas(via CSS)
+Definir uma cor de fonte e de fundo padrão para o site
+Os títulos devem ser alinhados a direita
+
+-------------------------------------------
+Regras - FASE 2
+***Criar link entre as páginas
+
+- Sempre que a palavra grêmio aparecer o texto deve ser em azul, sempre que a palavra inter aparecer o texto deve ser itálico e amarelo e sempre que aparecer CBF o texto deve ser amarelo.
+- As páginas relacionadas a futebol devem ter fundo cinza
+- As páginas relacionadas a surf devem ter fundo azul claro.
+- O título principal das páginas relacionadas a futebol deve ter tamanho 30px;
+
+
+

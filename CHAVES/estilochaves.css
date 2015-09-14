@@ -1,0 +1,49 @@
+body{
+	font-family: tahoma;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+h1{
+	font-size: 50px;
+	color: white;
+	background-color: green;
+	font-weight: bold;
+}
+h2{
+	font-size: 35px;
+	color: white;
+	background-color: green;
+	font-style: italic;
+}
+.quico{
+	color: red;
+}
+.chiquinha{
+	color: green;
+}
+.madruga{
+	color: blue;
+}
+.titulo{
+	font-size: 15px;
+	text-decoration: underline;
+	font-style: italic;
+	text-align: right;
+}
+.madruga2{
+	border-width: thick;
+	border-style: solid;
+	border-color: blue;
+}
+.quico2{
+	border-width: thick;
+	border-style: groove;
+	border-color: red;
+}
+.chiquinha2{
+	border-width: thick;
+	border-style: dotted;
+	border-color: green;
+}
